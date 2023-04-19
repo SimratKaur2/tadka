@@ -1,2 +1,2 @@
 # tadka
-This repository contains a responsive front-end web page for a recipe page that includes northern Indian recipes, which was made by me for an academic assignment.
+This repository hosts a user-friendly, responsive web page highlighting Punjabi food recipes. Developed for an academic project, it offers a simple and engaging way to discover these flavorful dishes.
